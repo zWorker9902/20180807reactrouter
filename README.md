@@ -12,3 +12,6 @@ npm install react-router-dom -S
 
 Redux方式：
 通过订阅Store 实现
+
+合并分支：
+git 命令
